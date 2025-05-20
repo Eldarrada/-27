@@ -1,5 +1,5 @@
 // Установите дату следующего дня рождения
-const birthdayDate = new Date("2025-10-22T00:00:00").getTime();
+const birthdayDate = new Date("2025-09-27T00:00:00").getTime();
 
 function updateTimer() {
   const now = new Date().getTime();
